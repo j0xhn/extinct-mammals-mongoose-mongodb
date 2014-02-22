@@ -1,0 +1,9 @@
+{
+  "name" : "Extinct_Mammals",
+  "version":"0.0.0",
+  "dependencies": {
+    "mongodb": "*",
+    "mongoose": "*",
+    "express": "*"
+  }
+}
